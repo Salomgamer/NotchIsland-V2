@@ -3,7 +3,7 @@ options:
   bundleIdPrefix: com.custom
   deploymentTarget:
     iOS: "16.0"
-  compatibilityVersion: "13.0"
+  xcodeVersion: "15.0"
 settings:
   base:
     PRODUCT_BUNDLE_IDENTIFIER: com.custom.notchisland
